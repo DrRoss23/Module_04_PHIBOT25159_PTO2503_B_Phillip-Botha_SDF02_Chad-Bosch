@@ -23,7 +23,7 @@
                 <img src="./images/cat-codespace.png" style="max-width: 100px; border: 2px solid #333;" />
                 <p>Hello! I'm <strong>CodeSpace Cat</strong>. I'm purr-ssionate about web development and design. I've been pawing at the web industry for just one catnap (that's less than a day in human terms), and I adore crafting pawsitively intuitive, whisker-twitching, and fur-tastic web experiences. Whoa that's a lot of puns. 🐾</p>
             </section>
-            <section id="my-skills" style="padding: 20px; background-color: #eaeafc;">
+            <section id="my-skills" style="padding: 20px; background-color: #d5d5f7;">
                 <h2 style="color: #6a5acd;">My Skills 🤹</h2>
                 <ul>
                     <li>Web development ❄️</li>
@@ -47,30 +47,36 @@
                         <td style="padding: 10px; border: 1px solid #333;">Purrfect Landing Page</td>
                         <td style="padding: 10px; border: 1px solid #333;">January 2024</td>
                         <td style="padding: 10px; border: 1px solid #333;">A delightful landing page for a luxury cat condo.</td>
-                        <td style="padding: 10px; border: 1px solid #333;"><img src="./images/1.png" alt="Thumbnail for Purrfect Landing Page" style="max-width: 50px;"></td>
+                        <td style="padding: 10px; border: 1px solid #333;"><img src="./images/1.png" alt="Thumbnail for Purrfect Landing Page" style="max-width: 100px; height: auto;"></td>
                     </tr>
                     <tr>
                         <td style="padding: 10px; border: 1px solid #333;">Kitty Commerce</td>
                         <td style="padding: 10px; border: 1px solid #333;">February 2024</td>
                         <td style="padding: 10px; border: 1px solid #333;">An online store selling the fanciest catnip toys.</td>
-                        <td style="padding: 10px; border: 1px solid #333;"><img src="./images/2.png" alt="Thumbnail for Kitty Commerce" style="max-width: 50px;"></td>
+                        <td style="padding: 10px; border: 1px solid #333;"><img src="./images/2.png" alt="Thumbnail for Kitty Commerce" style="max-width: 100px; height: auto;"></td>
                     </tr>
                     <tr>
                         <td style="padding: 10px; border: 1px solid #333;">CatChat Social</td>
                         <td style="padding: 10px; border: 1px solid #333;">June 2024</td>
                         <td style="padding: 10px; border: 1px solid #333;">A social media site for cats to meow and hiss!</td>
-                        <td style="padding: 10px; border: 1px solid #333;"><img src="./images/3.png" alt="Thumbnail for CatChat Social" style="max-width: 50px;"></td>
+                        <td style="padding: 10px; border: 1px solid #333;"><img src="./images/3.png" alt="Thumbnail for CatChat Social" style="max-width: 100px; height: auto;"></td>
                     </tr>
                 </table>
             </section>
             <section id="contact" style="padding: 20px; background-color: #f0e68c;">
                 <h2 style="color: #ff4500;">Contact Me</h2>
-                <p>
-                    Name: <input type="text" style="margin-right: 10px;"> 
-                    Email: <input type="text" style="margin-right: 10px;"> 
-                    Message: <input type="text" style="margin-right: 10px;"> 
-                    <button style="background-color: #ffcccb; border: none; padding: 5px 10px; cursor: pointer;">Submit</button>
-                </p>
+                <form style="display: flex; flex-direction: column; max-width: 400px;">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" style="margin-bottom: 15px; padding: 8px; width: 100%;" placeholder="Enter your name"><br>
+            
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" style="margin-bottom: 15px; padding: 8px; width: 100%;" placeholder="Enter your email"><br>
+            
+                    <label for="message">Message:</label>
+                    <input type="text" id="message" name="message" style="margin-bottom: 15px; padding: 8px; width: 100%;" placeholder="Type your message"><br>
+            
+                    <button type="submit" style="background-color: #ffcccb; border: none; padding: 5px 10px; cursor: pointer;">Submit</button>
+                </form>
             </section>
         </main>
         <footer style="background-color: #333; color: #fff; text-align: center; padding: 10px;">
