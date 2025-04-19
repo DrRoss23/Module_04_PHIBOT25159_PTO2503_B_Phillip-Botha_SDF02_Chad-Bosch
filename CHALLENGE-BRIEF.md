@@ -20,15 +20,15 @@ A well-structured HTML portfolio that matches the provided reference, follows be
 
 Before submitting your project, ensure the following:  
 
-- [✅] Your repository **exists under your GitHub account** and contains your updates.  
-- [✅] The HTML file is **fully structured and matches the reference example**.  
-- [✅] **Repo Name Follows the Correct Format** (Includes student number, group, and coach name).   
-- [✅] **All Required Content Sections are Present** (Title, About, Skills, Portfolio, Contact).  
-- [✅] **Navigation Links Work Correctly** (Ensure smooth movement within the page).  
-- [✅] **Contact Form is Included and Properly Structured**.  
-- [✅] **Repo is Public & Accessible** (Ensure the link works before submission).  
+- ✅ Your repository **exists under your GitHub account** and contains your updates.  
+- ✅ The HTML file is **fully structured and matches the reference example**.  
+- ✅ **Repo Name Follows the Correct Format** (Includes student number, group, and coach name).   
+- ✅ **All Required Content Sections are Present** (Title, About, Skills, Portfolio, Contact).  
+- ✅ **Navigation Links Work Correctly** (Ensure smooth movement within the page).  
+- ✅ **Contact Form is Included and Properly Structured**.  
+- ✅ **Repo is Public & Accessible** (Ensure the link works before submission).  
 
-Double-check everything before submitting—**attention to detail matters!**  
+Double-check everything before submitting—**attention to detail matters!**  ✅
 
 ### 🚨 **How to Submit Your Challenge** 🚨  
 
