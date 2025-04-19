@@ -20,20 +20,20 @@ A well-structured HTML portfolio that matches the provided reference, follows be
 
 Before submitting your project, ensure the following:  
 
-- [x] Your repository **exists under your GitHub account** and contains your updates.  
-- [x] The HTML file is **fully structured and matches the reference example**.  
-- [x] **Repo Name Follows the Correct Format** (Includes student number, group, and coach name).   
-- [x] **All Required Content Sections are Present** (Title, About, Skills, Portfolio, Contact).  
-- [x] **Navigation Links Work Correctly** (Ensure smooth movement within the page).  
-- [x] **Contact Form is Included and Properly Structured**.  
-- [x] **Repo is Public & Accessible** (Ensure the link works before submission).  
+- [✅] Your repository **exists under your GitHub account** and contains your updates.  
+- [✅] The HTML file is **fully structured and matches the reference example**.  
+- [✅] **Repo Name Follows the Correct Format** (Includes student number, group, and coach name).   
+- [✅] **All Required Content Sections are Present** (Title, About, Skills, Portfolio, Contact).  
+- [✅] **Navigation Links Work Correctly** (Ensure smooth movement within the page).  
+- [✅] **Contact Form is Included and Properly Structured**.  
+- [✅] **Repo is Public & Accessible** (Ensure the link works before submission).  
 
 Double-check everything before submitting—**attention to detail matters!**  
 
 ### 🚨 **How to Submit Your Challenge** 🚨  
 
 - Rename your repo with your details. Example format:  
-  `Module_04_StudentNo_Classcode_Group_Name-Surname_SDF02`  
+  `Module_04_PHIBOT25159_PTO2503_B_Phillip-Botha_SDF02_Chad-Bosch`  
 
 - Submit your GitHub Repo link through the LMS. You will find the [SDF02] challenge in the **[Projects](https://learn.codespace.co.za/projects)** tab.  
 
